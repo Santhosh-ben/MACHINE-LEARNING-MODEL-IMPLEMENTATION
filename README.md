@@ -19,3 +19,4 @@ Once the model was working effectively, I saved the Jupyter Notebook and uploade
 This project gave me a deep insight into the end-to-end pipeline of a machine learning workflow, from understanding the dataset to deploying the model results. It improved my problem-solving, coding, and data analysis skills. It also built my confidence in using machine learning libraries like scikit-learn and reinforced the importance of evaluating models correctly. Overall, this project was a valuable learning experience that enhanced both my technical skills and my understanding of applied machine learning.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/728a0b9e-161e-43a0-a8d1-1de19e244b58)
